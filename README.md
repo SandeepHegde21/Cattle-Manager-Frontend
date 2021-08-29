@@ -62,3 +62,5 @@ samples, guidance on mobile development, and a full API reference.
         This package contains a set of high-level functions and classes that make it easy to consume HTTP resources. It's multi-platform, and supports mobile, desktop, and the browser.
         In your Dart code, you can use:
             import 'package:http/http.dart';
+ ## Run the project
+    $  flutter run
